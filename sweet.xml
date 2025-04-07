@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="jan"
+           fetch="https://github.com/j4nDr01d" />
+
+  <project path="device/xiaomi/sweet" remote="jan" name="device_xiaomi_sweet" revision="fifteen" />
+  <project path="device/xiaomi/sm6150-common" remote="jan" name="device_xiaomi_sm6150-common" revision="fifteen" />
+  <project path="kernel/xiaomi/sm6150" remote="jan" name="kernel_xiaomi_sm6150" revision="fifteen" />
+  <project path="hardware/xiaomi" remote="jan" name="hardware_xiaomi" revision="fifteen" />
+  <project path="vendor/xiaomi/sweet" remote="jan" name="vendor_xiaomi_sweet" revision="fifteen" />
+  <project path="vendor/xiaomi/sm6150-common" remote="jan" name="vendor_xiaomi_sm6150-common" revision="fifteen" />
+  <project path="vendor/xiaomi/miuicamera-sweet" remote="jan" name="vendor_xiaomi_miuicamera-sweet" revision="fifteen" />
+  <project path="device/xiaomi/miuicamera-sweet" remote="jan" name="device_xiaomi_miuicamera-sweet" revision="fifteen" />
+</manifest>
