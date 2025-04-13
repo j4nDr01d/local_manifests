@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="gitlab"
+             fetch="https://gitlab.com/" />
+
+    <project path="prebuilts/clang/host/linux-x86/clang-r547379" name="crdroidandroid/android_prebuilts_clang_host_linux-x86_clang-r547379"  revision="15.0" remote="gitlab" />
+</manifest>
